@@ -1,4 +1,4 @@
-<h1 align="center">🚀 MD HABIBUR RAHMAN</h1>
+<h1 align="center">🚀 HABIBUR RAHMAN</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Super+Full+Stack+Web+Developer;MERN+%7C+Next.js+%7C+WordPress+%7C+TypeScript;🔥+Building+Digital+Experiences+that+Scale;Always+Learning+%F0%9F%92%BB+Always+Shipping+%F0%9F%9A%80" />
