@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm MD HABIBUR RAHMAN</h1>
+<h1 align="center">Hi there 👋, I'm  HABIBUR RAHMAN</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;WordPress+Expert+%7C+Elementor+%7C+WooCommerce;Open+Source+Lover+%F0%9F%92%BB;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
