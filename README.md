@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Habibur%20Rahman&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Habibur Rahman" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Habibur%20Rahman&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" width="100%" alt="Habibur Rahman" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=640&lines=MERN+%7C+Next.js+%7C+TypeScript+%7C+WordPress;AI+Chatbots+%26+n8n+Automation;Building+fast%2C+scalable+web+products" alt="Typing SVG" />
 
@@ -57,7 +57,7 @@ Right now I'm going deeper into **DevOps, AWS and Docker**, and building **AI ch
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php,py" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,py" alt="Backend" />
     </td>
   </tr>
   <tr>
@@ -95,10 +95,10 @@ Right now I'm going deeper into **DevOps, AWS and Docker**, and building **AI ch
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdhabiburrahman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhabiburrahman&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=habiburrahmansiam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiburrahmansiam&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
 
-<img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdhabiburrahman&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+<img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=habiburrahmansiam&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
 
 </div>
 
@@ -108,9 +108,9 @@ Right now I'm going deeper into **DevOps, AWS and Docker**, and building **AI ch
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdhabiburrahman/mdhabiburrahman/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdhabiburrahman/mdhabiburrahman/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mdhabiburrahman/mdhabiburrahman/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habiburrahmansiam/habiburrahmansiam/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habiburrahmansiam/habiburrahmansiam/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/habiburrahmansiam/habiburrahmansiam/output/github-snake.svg" />
   </picture>
 </div>
 
