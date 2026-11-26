@@ -1,106 +1,123 @@
-<h1 align="center">🚀 HABIBUR RAHMAN</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+%7C+Next.js+%7C+TypeScript+%7C+WordPress;AI+Chatbots+%7C+Automation+%7C+DevOps;🔥+Building+Digital+Experiences+that+Scale" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Habibur%20Rahman&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Habibur Rahman" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=640&lines=MERN+%7C+Next.js+%7C+TypeScript+%7C+WordPress;AI+Chatbots+%26+n8n+Automation;Building+fast%2C+scalable+web+products" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdhabiburrahman&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
-</p>
+<br/>
 
----
+<a href="https://linkedin.com/in/habiburrahmansiam33"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/habiburrahamn33"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://facebook.com/habiburrahmansiam1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://medium.com/@habibburrahman"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<img src="https://komarev.com/ghpvc/?username=mdhabiburrahman&label=Profile%20views&color=2C5364&style=flat-square" alt="Profile views" />
 
-## 🧠 About Me
+</div>
 
-🎯 Passionate Full Stack Web Developer  
-🚀 Learning **DevOps, AWS, Docker, Automation & Prompt Engineering**  
-🤖 Building **AI Chatbots, Automation Workflows (n8n), Modern Web Apps**  
-🧩 Expert in **Frontend, Backend, CMS, Databases & Cloud Technologies**  
-💬 Clean Code • Scalable Architecture • Fast Performance
+<br/>
 
----
+## About
 
-# 🧰 Tech Stack
+I'm a **Full Stack Web Developer** who builds fast, scalable and maintainable web products. I work across the whole stack, from interfaces and APIs to databases, CMS platforms and cloud deployment, with a focus on clean code and solid architecture.
 
-## 🎨 **Frontend**
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+Right now I'm going deeper into **DevOps, AWS and Docker**, and building **AI chatbots and automation workflows** that save teams real time.
 
----
+<br/>
 
-## 🛠️ **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+## What I Do
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Web Applications</h4>
+      Modern, responsive apps with <b>React, Next.js, TypeScript</b> and the <b>MERN</b> stack.
+    </td>
+    <td width="33%" valign="top">
+      <h4>AI &amp; Automation</h4>
+      Custom <b>AI chatbots</b> and <b>n8n</b> workflows that connect tools and remove repetitive work.
+    </td>
+    <td width="33%" valign="top">
+      <h4>WordPress &amp; E-commerce</h4>
+      Custom <b>WordPress</b> and <b>WooCommerce</b> sites that are fast, secure and easy to manage.
+    </td>
+  </tr>
+</table>
 
-## 🗄️ **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
 
----
+## Tech Stack
 
-## ⚙️ **CMS & WordPress**
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Elementor](https://img.shields.io/badge/-Elementor-9100FF?style=for-the-badge&logo=elementor&logoColor=white)
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,py" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>CMS</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" height="48" />
+      <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI &amp; Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="48" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode" alt="DevOps and tools" />
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 🤖 **Automation & AI**
-![n8n](https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
-![Chatbot](https://img.shields.io/badge/-AI_Chatbots-0F9D58?style=for-the-badge&logo=openai&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+## GitHub Stats
 
----
+<div align="center">
 
-## 🛠️ **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdhabiburrahman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhabiburrahman&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
 
----
+<img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdhabiburrahman&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
 
-# 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdhabiburrahman&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdhabiburrahman&theme=tokyonight" />
-</p>
+<br/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhabiburrahman&layout=compact&theme=tokyonight" />
-</p>
+## Contribution Activity
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdhabiburrahman/mdhabiburrahman/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdhabiburrahman/mdhabiburrahman/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mdhabiburrahman/mdhabiburrahman/output/github-snake.svg" />
+  </picture>
+</div>
 
-# 🔗 Social Profiles
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/habiburrahmansiam33"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/habiburrahamn33"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://facebook.com/habiburrahmansiam1"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://medium.com/@habibburrahman"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
-</p>
+## Let's Connect
 
----
+I'm open to freelance projects, collaborations and full-time opportunities. If you have an idea you want to build, reach out through any of the links above.
 
-## 🐍 Contribution Snake (GIF)
-```md
-![snake gif](https://github.com/mdhabiburrahman/mdhabiburrahman/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2C5364,50:203A43,100:0F2027" width="100%" alt="" />
